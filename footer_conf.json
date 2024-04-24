@@ -1,0 +1,37 @@
+[
+  {
+    "title": "IPSProtocol",
+    "links": [
+      {
+        "text": "Home",
+        "url": "https://ipsprotocol.xyz/"
+      },
+      {
+        "text": "Use",
+        "url": "https://github.com/IPSProtocol/hack_prevention_reference_implementation"
+      }
+    ]
+  },
+  {
+    "title": "Dapps",
+    "links": [
+      {
+        "text": "Documentation",
+        "url": "https://docs.ipsprotocol.xyz/"
+      }
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/GT6BpJqy"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://t.me/+hSp2Kr_exIc5ZDA0"
+      }
+    ]
+  }
+]
